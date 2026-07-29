@@ -1,2 +1,2 @@
 # Image-Gallery
-Responsive Image Gallery using HTML CSS and JavaScript
+codealpha internship on Responsive Image Gallery using HTML CSS and JavaScript
